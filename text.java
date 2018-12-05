@@ -9,5 +9,7 @@ public class text {
         System.out.println("-------------");
            System.out.println("=========");
 		   system.out.println("我是github")
+        System.out.println("我是idea的git");
+
     }
 }
