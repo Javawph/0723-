@@ -12,5 +12,6 @@ public class text {
         System.out.println("我是idea的git");
         System.out.println("dasfsafdsafc");
              System.out.println("我是更新后的idea");
+        System.out.println("我是大佬的代码");
     }
 }
