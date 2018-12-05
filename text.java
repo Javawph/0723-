@@ -14,5 +14,6 @@ public class text {
              System.out.println("我是更新后的idea");
         System.out.println("我是大佬的代码");
         System.out.println("我是大佬第二段代码");
+        System.out.println("我是大佬第三段代码");
     }
 }
