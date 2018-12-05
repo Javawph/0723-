@@ -13,6 +13,7 @@ public class text {
         System.out.println("dasfsafdsafc");
              System.out.println("我是更新后的idea");
         System.out.println("我是大佬的代码");
+        System.out.println("我是大佬第二段代码");
         System.out.println("我是小白第一段代码");
     }
 }
